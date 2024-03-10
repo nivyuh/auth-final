@@ -22,7 +22,7 @@ export default function SignInScreen({ promptAsync }) {
         onPress={() => promptAsync()}
       >
         <Text style={{ fontWeight: "bold", color: "white", fontSize: 17 }}>
-          Sign in With Google
+          Register With Google
         </Text>
       </TouchableOpacity>
     </SafeAreaView>
